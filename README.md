@@ -84,7 +84,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For any questions or feedback, please reach out to us at hello@split.sol or join our [Discord community](https://discord.gg/splitsol).
+For any questions or feedback, please reach out to us at @splitdotsol on X.
 \`\`\`
 
 Let's create a placeholder preview image:
