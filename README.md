@@ -1,6 +1,6 @@
 # Split.sol
 
-Split.sol is a decentralized application (dApp) built on the Solana blockchain that allows users to split expenses with friends and family. The app is designed to work on both desktop and Solana Mobile (Saga) devices.
+Split.sol is a decentralized application (dApp) built on the Solana blockchain that allows users to split expenses with friends and family. The app is designed to work on both desktop and Solana Mobile (Seeker) devices.
 
 ## Features
 
